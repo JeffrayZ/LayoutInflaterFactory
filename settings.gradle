@@ -1,0 +1,3 @@
+include ':skinapp'
+include ':app'
+rootProject.name = "LayoutInflaterFactory"
